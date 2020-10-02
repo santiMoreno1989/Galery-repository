@@ -4,7 +4,7 @@ header
 {
     text-align: center;
     color:turquoise;
-    border: 2px solid  black;
+    border-radius: 1%;
     background-color: #00587a;
     width: 100%;
     margin-bottom: 0px;
@@ -26,9 +26,10 @@ header .encabezados h2
 header img
 {
     
-    background-color: yellow;
+    background-color: #00587a;
     width: 500px;
     margin-top: 0px;
+    height: auto;
 
 }
 nav 
@@ -38,7 +39,7 @@ nav
     font-size: larger;
     font-family: fantasy;
     background-color: #f5f1da;    
-    height: 120px;
+    height: 76px;
     padding-top: 1px;
     border-bottom: 2px solid blue;
     margin-bottom: 50px;
