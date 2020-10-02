@@ -9,6 +9,7 @@ header
     width: 100%;
     margin-bottom: 0px;
     display: flex;
+    height: 245px;
 
 }
 header .encabezados
@@ -34,14 +35,15 @@ header img
 }
 nav 
 {
-    width: 100%;
+    
     color: #f5f1da;
     font-size: larger;
     font-family: fantasy;
     background-color: #f5f1da;    
     height: 76px;
     padding-top: 1px;
-    border-bottom: 2px solid blue;
+    border-radius: 2%;
+    border: 5px solid gold ;
     margin-bottom: 50px;
 }
 nav li
