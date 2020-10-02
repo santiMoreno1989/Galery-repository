@@ -5,19 +5,31 @@ header
     text-align: center;
     color:turquoise;
     border: 2px solid  black;
-    background-color: tomato;
+    background-color: #00587a;
     width: 100%;
     margin-bottom: 0px;
+    display: flex;
 
 }
 header .encabezados
 {
-    text-align: center;
+    text-align: left;
     font-size: 30px;
+    margin-left: 10px;
 }
 header .encabezados h2
 {
-    color: black;
+    color: white;
+    font-size: 40px;
+    
+}
+header img
+{
+    
+    background-color: yellow;
+    width: 500px;
+    margin-top: 0px;
+
 }
 nav 
 {
