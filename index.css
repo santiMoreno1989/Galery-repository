@@ -33,9 +33,32 @@ header img
 }
 nav 
 {
-    color: cornflowerblue;
-    font-size: large;
+    width: 100%;
+    color: #f5f1da;
+    font-size: larger;
     font-family: fantasy;
-    background-color: forestgreen;
-    padding-top: 1%;    
+    background-color: #f5f1da;    
+    height: 120px;
+    padding-top: 1px;
+    border-bottom: 2px solid blue;
+    margin-bottom: 50px;
+}
+nav li
+{
+    
+    font-size: 30px;
+    float: left;
+        
+}
+nav li a
+{
+    text-decoration: none;
+    color: #52575d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 70px 20px 40px;
+}
+nav li a:hover
+{
+    color: #f5f1da;
+    background-color: black;
 }
